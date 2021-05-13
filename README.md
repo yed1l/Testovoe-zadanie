@@ -5,6 +5,6 @@
 * php artisan migrate
 * php artisan db:seed
 
-#Пароль от менеджера
+# Пароль от менеджера
 Login: Manager
 Password: secret
