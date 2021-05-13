@@ -6,5 +6,5 @@
 * php artisan db:seed
 
 # Пароль от менеджера
-Login: Manager
-Password: secret
+* Login: Manager
+* Password: secret
